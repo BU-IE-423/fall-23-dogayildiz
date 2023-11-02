@@ -1,4 +1,4 @@
-## Welcome to Doğa's GitHub Page
+## Welcome to Doğa's Progress Journal!
 
 # Project Part 1
 
