@@ -16,7 +16,7 @@ Python Code: [Part 2 Code](https://github.com/BU-IE-423/fall-23-dogayildiz/blob/
 
 [Download Python File](IE423_Project_Part_2_Code.py)
 
-# Project Part 2
+# Project Part 3
 
 Report pdf File: [Part 3 Report](IE423_ProjectPart3_Report (1).pdf)
 
