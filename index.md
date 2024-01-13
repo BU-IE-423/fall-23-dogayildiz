@@ -15,3 +15,11 @@ HTML File: [Part 2 Html](IE423_Project_Part_2.html)
 Python Code: [Part 2 Code](https://github.com/BU-IE-423/fall-23-dogayildiz/blob/main/IE423_Project_Part_2_Code.py)
 
 [Download Python File](IE423_Project_Part_2_Code.py)
+
+# Project Part 2
+
+Report pdf File: [Part 3 Report]
+
+Python Code: [Part 3 Code]
+
+[Download Python File]
