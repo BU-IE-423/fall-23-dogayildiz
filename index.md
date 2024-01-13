@@ -18,8 +18,6 @@ Python Code: [Part 2 Code](https://github.com/BU-IE-423/fall-23-dogayildiz/blob/
 
 # Project Part 2
 
-Report pdf File: [Part 3 Report]
+Report pdf File: [Part 3 Report](IE423_ProjectPart3_Report (1).pdf)
 
-Python Code: [Part 3 Code]
-
-[Download Python File]
+Python Code: [Part 3 Code](IE423_Project_Part3.py)
